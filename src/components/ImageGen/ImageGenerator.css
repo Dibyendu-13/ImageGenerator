@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+  }
+  .inputBox{
+    margin-top: 5px;
+  }
+  
+  .form-container {
+   
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  p {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+ #imgContainer>img{
+   max-width: 100%;
+   height: auto;
+ }
+  
+  
