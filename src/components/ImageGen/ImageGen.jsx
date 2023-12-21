@@ -89,7 +89,7 @@ const ImageGenerator = () => {
 
   generatedImage && (
     <div id="imgContainer" className="image-container" style={{margin:"10px"}}  >
-      <img style={{border: '5px solid #555',borderRadius: '25px'}} src={generatedImage} alt="Generated Image" className="generated-image" />
+      <img alt='' style={{border: '5px solid #555',borderRadius: '25px'}} src={generatedImage}  className="generated-image" />
     </div>
   )}
 
