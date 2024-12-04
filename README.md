@@ -25,9 +25,11 @@ git clone https://github.com/Dibyendu-13/ImageGenerator.git
 ```
 Navigate to the project directory:
 
+```
 cd ai-image-generator
 ```
 Install dependencies:
+
 
 ```
 npm install
