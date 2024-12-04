@@ -20,16 +20,19 @@ The **AI Image Generator** is a React-based web application that utilizes the St
 
 1. Clone the repository:
 
- ```
-   git clone https://github.com/Dibyendu-13/ImageGenerator.git
+```
+git clone https://github.com/Dibyendu-13/ImageGenerator.git
+```
 Navigate to the project directory:
 
-```
 cd ai-image-generator
+```
 Install dependencies:
 
 ```
 npm install
+```
+
 Create an api.js file in the src directory and add your Hugging Face API token:
 
 ```
@@ -38,9 +41,11 @@ export default Api;
 ```
 
 Start the development server:
+
 ```
 npm start
 ```
+
 Usage
 Open the app in your browser at http://localhost:3000.
 Enter a description in the input field.
